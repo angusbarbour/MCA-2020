@@ -1,2 +1,4 @@
-# MCA
-\[Enter your responses to Week 1, tasks 2 and 3 here\]
+<h2>  Week 1 </h2>
+The central theme surrounding my MCA project will be the work of composer Claude Debussy. 
+
+

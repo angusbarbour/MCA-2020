@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title xml:id="songname" authURI=https://www.wikidata.org/wiki/Q1367599 authority="wikidata">Passepied</title>
+            <title xml:id="songname" authURI="https://www.wikidata.org/wiki/Q1367599" authority="wikidata">Passepied</title>
             <title id="subtitle" type="subtitle"> An arrangement for piano </title>
             <composer xml:id="composer1"> Claude Debussy </composer>			
             <respStmt>

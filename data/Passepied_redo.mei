@@ -5,12 +5,23 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Passepied</title>
-            <respStmt>
-               <persName role="composer">Claude Debussy</persName>
+            <title xml:id="songname" authURI="https://www.wikidata.org/wiki/Q1367599" authority="wikidata">Passepied</title>
+            <title id="subtitle" type="subtitle"> An arrangement for piano </title>
+			<composer xml:id="composer1"> Claude Debussy </composer>
+			<respStmt>
+             <resp>Encoded by</resp>
+              <persName>Angus Barbour</persName>
             </respStmt>
          </titleStmt>
-         <pubStmt><availability />
+		 <physDesc> 
+		  <extent> 31.8kb </extent>
+		  </physDesc>
+         <pubStmt>
+		  <publisher> 
+		   <corpName> E. Fromont </corpName> 
+		   <pubPlace> Paris </pubPlace>
+		   <date> 1905 <date>
+		 <availability />
          </pubStmt>
       </fileDesc>
       <encodingDesc xml:id="encodingdesc-0000001731539237">

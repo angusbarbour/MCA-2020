@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="4.0.0">
@@ -9,18 +9,15 @@
             <title id="subtitle" type="subtitle"> An arrangement for piano </title>
 			<composer xml:id="composer1"> Claude Debussy </composer>
 			<respStmt>
-             <resp>Encoded by</resp>
-              <persName>Angus Barbour</persName>
+              <persName xml:id="encoder">Angus Barbour</persName>
             </respStmt>
          </titleStmt>
-		 <physDesc> 
 		  <extent> 31.8kb </extent>
-		  </physDesc>
          <pubStmt>
 		  <publisher> 
-		   <corpName> E. Fromont </corpName> 
+		   <corpName> E. Fromont </corpName> </publisher>
 		   <pubPlace> Paris </pubPlace>
-		   <date> 1905 <date>
+		   <date> 1905 </date>
 		 <availability />
          </pubStmt>
       </fileDesc>
@@ -38,10 +35,6 @@
          <mdiv xml:id="mdiv-0000001378445158">
             <score xml:id="score-0000001412155285">
                <scoreDef xml:id="scoredef-0000001225163820">
-                  <pgHead xml:id="pghead-0000000232854036">
-                     <rend xml:id="rend-0000002016090437" halign="center" valign="top">Passepied</rend>
-                     <rend xml:id="rend-0000001598471105" halign="right" valign="bottom">Claude Debussy</rend>
-                  </pgHead>
                   <staffGrp xml:id="staffgrp-0000001137048231">
                      <staffGrp xml:id="P1" symbol="brace" bar.thru="true">
                         <label xml:id="label-0000000801480210">Piano</label>
@@ -421,3 +414,4 @@
       </body>
    </music>
 </mei>
+

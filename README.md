@@ -26,17 +26,17 @@ __Task two:__ For the second task, I was to successful render my MEI file using 
 
 ## _Week 4_
 This week I was given the task of generating a JSymbolic, and focusing on a few interesting features that derived from the report. I have listed the JSymbolic below:
-*Number of Pitches: 23
-*Number of Pitch Classes: 8
-*Range: 36
-*Strong Tonal Centres: 2
-*Mean Pitch: 58
-*Mean Pitch Class: 5.445
-*Most Common Pitch: 49
-*Most Common Pitch Class: 1
-*Interval Between Most Prevelant Pitches: 5
-*Pitch Variability: 9.531
-*Most Common Melodic Interval: 7
+* Number of Pitches: 23
+* Number of Pitch Classes: 8
+* Range: 36
+* Strong Tonal Centres: 2
+* Mean Pitch: 58
+* Mean Pitch Class: 5.445
+* Most Common Pitch: 49
+* Most Common Pitch Class: 1
+* Interval Between Most Prevelant Pitches: 5
+* Pitch Variability: 9.531
+* Most Common Melodic Interval: 7
 
 ## _Week 5_
 

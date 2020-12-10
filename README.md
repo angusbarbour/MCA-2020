@@ -159,6 +159,9 @@ For this task I had to compute spectograms and waveforms from each song I had fo
 ![Classic Waveform](https://github.com/angusbarbour/MCA-2020/blob/master/images/classic%20wave.png)
 ![Classic Spectogram](https://github.com/angusbarbour/MCA-2020/blob/master/images/classical%20specto.png)
 
+### The Advantages of Time-Frequency Analysis
+In this section, I will discuss the advantages of using time-frequency based analysis over the analysis of waveforms. Waveform analysis tells you the change in the signals amplitude over time. This can be useful when determining how loud the volume of the track is, but it does not tell you much more. The benefit of using time-frequency analysis is that you are able to get an understanding of the different frequencies over the course of the track. Instantly by looking at a spectogram one is able to get a basic understanding on how the song will sound, whether there will be lots of higher or lower frequencies. This analysis helps you to get a much more informative view on the audio than that of an amplitude waveform. One of the many advantages of Spectogram analysis is that it can assist sound engineers to remove any frequencies from songs they are mastering that may cause harm to the human ear. 
+
 ## _Week 9_
 
 ## _Week 10_ 

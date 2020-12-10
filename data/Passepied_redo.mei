@@ -7,7 +7,7 @@
          <titleStmt>
             <title xml:id="songname" authURI="https://www.wikidata.org/wiki/Q1367599" authority="wikidata">Passepied</title>
             <title id="subtitle" type="subtitle"> An arrangement for piano </title>
-			<composer xml:id="composer1"> Claude Debussy </composer>
+			<composer xml:id="composer1" authURI="https://www.wikidata.org/wiki/Q4700" authority="wikidata"> Claude Debussy </composer>
 			<respStmt>
               <persName xml:id="encoder">Angus Barbour</persName>
             </respStmt>
@@ -15,7 +15,7 @@
 		  <extent> 31.8kb </extent>
          <pubStmt>
 		  <publisher> 
-		   <corpName> E. Fromont </corpName> </publisher>
+		   <corpName xml:id="publishername" authURI"https://www.wikidata.org/wiki/Q23766480" authority="wikidata"> E. Fromont </corpName> </publisher>
 		   <pubPlace> Paris </pubPlace>
 		   <date> 1905 </date>
 		 <availability />

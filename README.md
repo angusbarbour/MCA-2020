@@ -91,7 +91,7 @@ For the second task, I was required to update my orginal MEI files header to imp
 
 ## _Week 7_
 
-For week 7
+For week 7 I was asked to review my metadata i had previously added to my MEI file and add some more that I thoguht were important. 
 
 ## _Week 8_
 

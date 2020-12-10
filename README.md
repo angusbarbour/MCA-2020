@@ -58,10 +58,36 @@ _The scatter plot tells me what notes are most commonly played at different note
 ### Piano Roll
 ![Piano Roll](https://github.com/angusbarbour/MCA-2020/blob/master/images/Piano%20Roll.png)
 
-_A piano roll is used to represent what notes are played by the paino player, at what time and for how long. The data seems to be accurate as we can see the prevelance of the C3 note, as well as a lot of short notes being represented. These would account for the quavers._
+_A piano roll is used to represent what notes are played by the piano player, at what time and for how long. The data seems to be accurate as we can see the prevelance of the C3 note, as well as a lot of short notes being represented. These would account for the quavers._
 
 
 ## _Week 5_
+
+For week 5, I was asked if I had 1000 mei files, what metadata elements would be most important in order to ogranise this music database. Below I have stated which metadata elements I believe are the most important for describing and organisaing music:
+
+### Metadata regarding song.
+
+* Title - The name given to a song by its creator.
+* Composer - Who is responible for composing the song, more prevelant with orchestral and classical music than more modern day genres.
+* Artist - The person who is resonsible for creating the song.
+* Album - The name of the album that the song is a part of.
+* Length - The length of time that the song plays for.
+* File size - The physical size of the file.
+* Genre - Describes what type of music the song falls under. Could be classical/rock/punk etc.
+* Publisher - The name of the person or organisation that published the piece of music.
+* Publisher Location - The location of where the person or organisation published the piece.
+* Date of Publishing - The date of when the piece of music was actually published.
+* Copyright - The restrictions put in place by the publisher to protect the song.
+
+### Metadata regarding encoded piece.
+
+* Encoder - The person who is responsible for encoding the piece.
+* Date of Encoding - The date of when the ecoding of the document was completed.
+* Location of Encoding - The location of where this person encoded the document.
+
+### Task 2
+
+For the second task, I was required to update my orginal MEI files header to implement some of these metadata elements into my file. This was done so that it would be easier to find and organise my piece. The updated file for this weeks work can be found [Here](https://github.com/angusbarbour/MCA-2020/blob/master/data/Passepied_redo.mei)
 
 ## _Week 6_
 

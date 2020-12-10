@@ -44,11 +44,14 @@ __Task 2:__
 
 For task 2 I was required to use the Jupiter Notebook in order to generate three things from my data: A pitch histogram, A piano roll and a pitch scatter plot. 
 All three of these can be seen below:
-_Pitch Hisogram_
+
+### Pitch Hisogram
 ![pitch histogram](https://github.com/angusbarbour/MCA-2020/blob/master/images/Pitch%20Histogram.png)
-_Scatter Plot_
+
+### Scatter Plot
 ![Pitch Scatter Plot](https://github.com/angusbarbour/MCA-2020/blob/master/images/Scatter%20Plot.png)
-_Piano Roll_
+
+### Piano Roll
 ![Piano Roll](https://github.com/angusbarbour/MCA-2020/blob/master/images/Piano%20Roll.png)
 
 

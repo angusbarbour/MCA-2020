@@ -91,7 +91,11 @@ For the second task, I was required to update my orginal MEI files header to imp
 
 ## _Week 7_
 
-For week 7 I was asked to review my metadata i had previously added to my MEI file and add some more that I thoguht were important. 
+For week 7 I was asked to review my metadata i had previously added to my MEI file and add some more that I thoguht were important. One thing I focused on this week was adding authorisation to my data. This came in the form of adding authURI tags to my previous metadata to show they were legimite desriptors.I also focused on adding what metadata elements I thought were important, for this reason I added more data about the inital publishing of the piece. The updated file can be found [here](https://github.com/angusbarbour/MCA-2020/blob/master/data/Passepied_redo.mei). 
+
+### Task 2 
+
+For task two, we were asked to add css elements to our rendered verovio piece, in order to make the metadata appear a little nicer on the screen. To find the rendered MEI file please click [here](https://angusbarbour.github.io/MCA-2020/MyMeta.html).
 
 ## _Week 8_
 

@@ -48,11 +48,17 @@ All three of these can be seen below:
 ### Pitch Hisogram
 ![pitch histogram](https://github.com/angusbarbour/MCA-2020/blob/master/images/Pitch%20Histogram.png)
 
+_My pitch histogram has shown me how many times a note has been played throughout the duration of the song. This is useful to detect the most common note. My pitch histogram has shown me that the most common note during the song was close to C3. My JSymbolic told me that my mean pitch was 58. After consulting with the University of South Wales online, I found that the midi number 58 represents the note inbetween A3 and B3 on the piano. These two notes are very close to C3 on the scale, and may account for why my histogram said the most common pitch was around this area._ 
+
 ### Scatter Plot
 ![Pitch Scatter Plot](https://github.com/angusbarbour/MCA-2020/blob/master/images/Scatter%20Plot.png)
 
+_The scatter plot tells me what notes are most commonly played at different note lengths. The data shown on the graff appears to be consistent with my piece of music, as the majoirty of the notes in the song are played sticcatto, and are also all quavers. This would correlate with the time/note freuqnecy shown in the graph. Not only this but we can see the most common pitch once again was a C3 followed by a D. This correlates well with the previous graph._
+
 ### Piano Roll
 ![Piano Roll](https://github.com/angusbarbour/MCA-2020/blob/master/images/Piano%20Roll.png)
+
+_A piano roll is used to represent what notes are played by the paino player, at what time and for how long. The data seems to be accurate as we can see the prevelance of the C3 note, as well as a lot of short notes being represented. These would account for the quavers._
 
 
 ## _Week 5_

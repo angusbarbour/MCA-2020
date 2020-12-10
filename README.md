@@ -143,6 +143,21 @@ For week 8, I was asked to find three tracks of different genres to analyse. I w
 * Bit per second: 320000
 * Duration: 1:59.89
 
+### Task 2 
+
+For this task I had to compute spectograms and waveforms from each song I had found, using sonic visualiser. The results can be seen below:
+
+### Track One
+![Techno Waveform](https://github.com/angusbarbour/MCA-2020/blob/master/images/techno%20wave%20form.png)
+![Techno Spectogram](https://github.com/angusbarbour/MCA-2020/blob/master/images/techno%20specto.png)
+
+### Track Two
+![Rock Waveform](https://github.com/angusbarbour/MCA-2020/blob/master/images/rock%20wave%20form.png)
+![Rock Spectogram](https://github.com/angusbarbour/MCA-2020/blob/master/images/rock%20specto.png)
+
+### Track three
+![Classic Waveform](https://github.com/angusbarbour/MCA-2020/blob/master/images/classic%20wave.png)
+![Classic Spectogram](https://github.com/angusbarbour/MCA-2020/blob/master/images/classical%20specto.png)
 
 ## _Week 9_
 

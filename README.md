@@ -25,7 +25,7 @@ __Task two:__ For the second task, I was to successful render my MEI file using 
 
 
 ## _Week 4_
-This week I was given the task of generating a JSymbolic, and focusing on a few interesting features that derived from the report. I have listed the JSymbolic below:
+This week I was given the task of generating a JSymbolic, and using it to extract some intersting features relevant to my song. I have listed the JSymbolic extracted features below:
 * Number of Pitches: 23
 * Number of Pitch Classes: 8
 * Range: 36
@@ -37,7 +37,7 @@ This week I was given the task of generating a JSymbolic, and focusing on a few 
 * Interval Between Most Prevelant Pitches: 5
 * Pitch Variability: 9.531
 * Most Common Melodic Interval: 7
-
+I have selected a few features to be extracted that I think are interesting for my song. Passepied is a song that sounds very much like you are being taken on a journey, and I wanted to know if this had anything to do with the range in notes or the number of pitches. This is why I decided to extract range and number of pitches. Although the range is only 36, it is important to note that the JSymbolic only reported 10 bars of my piece, which may explain why the number was not as high as I had anticipated. However, for only 10 bars I would argue that 23 different pitches is relatively high. It is also to be taken into account that the first 10 bars of this song are quite repitive and follow the same pitch pattern, this may be the reason for the relatively mediocore numbers. 
 ## _Week 5_
 
 ## _Week 6_

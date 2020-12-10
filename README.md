@@ -14,7 +14,21 @@ For this weeks activity I was required to transcribe 10 bars from this sheet mus
 My 10 bar transcription can be viewed below:
 ![transcirption](https://github.com/angusbarbour/MCA-2020/blob/master/images/Passepied_image.JPG).
 
+## _Week 3_
 
+## _Week 4_
+
+## _Week 5_
+
+## _Week 6_
+
+## _Week 7_
+
+## _Week 8_
+
+## _Week 9_
+
+## _Week 10_ 
 
 
 

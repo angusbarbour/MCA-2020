@@ -15,13 +15,13 @@ My 10 bar transcription can be viewed below:
 ![transcirption](https://github.com/angusbarbour/MCA-2020/blob/master/images/Passepied_image.JPG).
 
 ## _Week 3_
-__Task one__
+__Task one:__
 For this weeks task I was required to take the score that I created last week, and convert it into two different formats: musicxml and mei. I achieved the musicxml file by simply exporting my score from musescore as an XML file. However, to obtain the mei file I had to use Verovio in order to get this format. Both of my files can be seen down below:
 
 * [mei file](https://github.com/angusbarbour/MCA-2020/blob/master/data/Passepied_redo.mei)
 * [Musicxml file](https://github.com/angusbarbour/MCA-2020/blob/master/data/Passepied.musicxml)
 
-__Task two__
+__Task two:__ For the second task, I was to successful render my MEI file using the Verovio app. I was able to do this and the rendered vervio file can be found [here](https://angusbarbour.github.io/MCA-2020/verovio.html)
 
 
 ## _Week 4_

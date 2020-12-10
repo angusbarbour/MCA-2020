@@ -163,6 +163,23 @@ For this task I had to compute spectograms and waveforms from each song I had fo
 In this section, I will discuss the advantages of using time-frequency based analysis over the analysis of waveforms. Waveform analysis tells you the change in the signals amplitude over time. This can be useful when determining how loud the volume of the track is, but it does not tell you much more. The benefit of using time-frequency analysis is that you are able to get an understanding of the different frequencies over the course of the track. Instantly by looking at a spectogram one is able to get a basic understanding on how the song will sound, whether there will be lots of higher or lower frequencies. This analysis helps you to get a much more informative view on the audio than that of an amplitude waveform. One of the many advantages of Spectogram analysis is that it can assist sound engineers to remove any frequencies from songs they are mastering that may cause harm to the human ear. 
 
 ## _Week 9_
+## Extracting Meaning From Audio 
+This week we were presented with the task of extracting certain features from tracks of 3 different genres. The three tracks I used were the same tracks used in week8, to adhere to the concept of continuity. The three transformations I made to my tracks were: Spectograms, Chromograms and Mel Frequency Cepstral Coefficient. These transformations can be seen below:
+
+### Track One - Techno
+![Techno Spectogram](https://github.com/angusbarbour/MCA-2020/blob/master/images/techno%20specto.png)
+![Techno Chromogram](https://github.com/angusbarbour/MCA-2020/blob/master/images/techno%20chromo.png)
+![Techno MFCC](https://github.com/angusbarbour/MCA-2020/blob/master/images/techno%20mfcc.png)
+
+### Track Two - Rock 
+![Rock Spectogram](https://github.com/angusbarbour/MCA-2020/blob/master/images/rock%20specto.png)
+![Rock Chromogram](https://github.com/angusbarbour/MCA-2020/blob/master/images/rock%20chromo.png)
+![Rock MFCC](https://github.com/angusbarbour/MCA-2020/blob/master/images/rock%20mfcc.png)
+
+### Track Three - Classical
+![Classical Spectogram](https://github.com/angusbarbour/MCA-2020/blob/master/images/classical%20specto.png)
+![Classical Chromogram](https://github.com/angusbarbour/MCA-2020/blob/master/images/classical%20chromo.png)
+![Classical MFCC](https://github.com/angusbarbour/MCA-2020/blob/master/images/classic_mfcc.png)
 
 ## _Week 10_ 
 

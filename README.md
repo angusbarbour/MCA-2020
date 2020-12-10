@@ -89,9 +89,9 @@ For week 5, I was asked if I had 1000 mei files, what metadata elements would be
 
 For the second task, I was required to update my orginal MEI files header to implement some of these metadata elements into my file. This was done so that it would be easier to find and organise my piece. The updated file for this weeks work can be found [Here](https://github.com/angusbarbour/MCA-2020/blob/master/data/Passepied_redo.mei)
 
-## _Week 6_
-
 ## _Week 7_
+
+For week 7
 
 ## _Week 8_
 

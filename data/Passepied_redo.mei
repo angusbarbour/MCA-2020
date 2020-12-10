@@ -15,7 +15,7 @@
 		  <extent> 31.8kb </extent>
          <pubStmt>
 		  <publisher> 
-		   <corpName xml:id="publishername" authURI"https://www.wikidata.org/wiki/Q23766480" authority="wikidata"> E. Fromont </corpName> </publisher>
+		   <corpName xml:id="publishername" authURI="https://www.wikidata.org/wiki/Q23766480" authority="wikidata"> E. Fromont </corpName> </publisher>
 		   <pubPlace> Paris </pubPlace>
 		   <date> 1905 </date>
 		 <availability />

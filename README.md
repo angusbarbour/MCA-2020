@@ -11,5 +11,9 @@ This week I had decide on what piece of music I was going to transcribe for my p
 
 For this weeks activity I was required to transcribe 10 bars from this sheet music, the PDF document of the original score can be found [here.](https://github.com/angusbarbour/MCA-2020/blob/master/suite_bergamasque.pdf).
 
+My 10 bar transcription can be viewed below:
+
+
+
 
 

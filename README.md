@@ -99,6 +99,51 @@ For task two, we were asked to add css elements to our rendered verovio piece, i
 
 ## _Week 8_
 
+For week 8, I was asked to find three tracks of different genres to analyse. I was asked to identify and list the important the most important technical and non technical metadata associated with the tracks. I have listed them down below:
+
+### Track One
+* Title: Techno Dance Club
+* Artist: D SMILEZ
+* Album: The Fun Of Dancing
+* Composer: none
+* Copyright info: CC BY-NC-ND 4.0 
+* Genre: Techno, Dance
+* Source: Freemusicarchive.org
+* File/audio format: MP3
+* Number of channels: 2 
+* Sample rate: 44100Hz
+* Bit per second: 259453
+* Duration: 4:08:908
+
+### Track Two
+* Title: Ballad of sarin
+* Artist: The Everymen
+* Album: Live With Therese on EFMU 10-1-12
+* Composer: none
+* Copyright Info: CC BY-NC-ND 3.0
+* Genre: Rock, Punk.
+* Source: freemusicarchive.org
+* File/audio format: MP3
+* Number of channels: 2
+* Sample Rate: 44100Hz
+* Bit per second: 256000
+* Duration: 1:36.357
+
+### Track Three
+* Title: Dance of the Sugar Plum Fairy
+* Artist: Kevin Macleod
+* Album: Classic Sampler
+* Composer: P. I. Tchaikovsky
+* Copyright Info: CC BY 3.0
+* Genre: Classical
+* Source: freemusicarchive.org
+* File/audio format: MP3
+* Number of channels: 2
+* Sample Rate: 44100Hz
+* Bit per second: 320000
+* Duration: 1:59.89
+
+
 ## _Week 9_
 
 ## _Week 10_ 

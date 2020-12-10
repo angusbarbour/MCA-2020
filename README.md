@@ -181,6 +181,21 @@ This week we were presented with the task of extracting certain features from tr
 ![Classical Chromogram](https://github.com/angusbarbour/MCA-2020/blob/master/images/classical%20chromo.png)
 ![Classical MFCC](https://github.com/angusbarbour/MCA-2020/blob/master/images/classic_mfcc.png)
 
+### Task 2 
+For task two, we were asked to make histograms from two of the transformations: MFCC'S and Chromograms. The histograms can be seen below:
+
+### Chromograms
+
+![Techno Chromo Histogram](https://github.com/angusbarbour/MCA-2020/blob/master/images/techno_chromo_histogram1.png)
+![Rock Chromo Histogram](https://github.com/angusbarbour/MCA-2020/blob/master/images/rock_chromo_histogram1.png)
+![Classical Chromo Histogram](https://github.com/angusbarbour/MCA-2020/blob/master/images/classical_chromo_histogram1.png)
+
+### MFCC
+
+![Techno MFCC Histogram](https://github.com/angusbarbour/MCA-2020/blob/master/images/techno_mfcc_histogram1.png)
+![Rock MFCC Histogram](https://github.com/angusbarbour/MCA-2020/blob/master/images/rock_mfcc_histogram1.png)
+![Classical MFCC Histogram](https://github.com/angusbarbour/MCA-2020/blob/master/images/classic_mfcc_histogram1.png)
+
 ## _Week 10_ 
 
 

@@ -206,8 +206,14 @@ _Classical_
 ### Generating a Similarity Matrix.
 This week I was presented with the task of generating a similarity matrix for my tracks using jupiter notebook.
 
+![Similarity_Matrix](https://github.com/angusbarbour/MCA-2020/blob/master/images/similarity_matrix.JPG)
+
+
+
 ### Transcription 
 For the second task I was required to generate an automatic transcirption of my piece of music. This was achieved by using sonic visualiser to create this polyphonic transcription. The results of the polyphonic transcriptin can be seen below: 
+
+![Polyphonic_Transcription](https://github.com/angusbarbour/MCA-2020/blob/master/images/Polyphonic_transcription.JPG)
 
 
 

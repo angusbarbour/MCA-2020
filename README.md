@@ -48,7 +48,7 @@ All three of these can be seen below:
 ### Pitch Hisogram
 ![pitch histogram](https://github.com/angusbarbour/MCA-2020/blob/master/images/Pitch%20Histogram.png)
 
-_My pitch histogram has shown me how many times a note has been played throughout the duration of the song. This is useful to detect the most common note. My pitch histogram has shown me that the most common note during the song was close to C3. My JSymbolic told me that my mean pitch was 58. After consulting with the University of South Wales online, I found that the midi number 58 represents the note inbetween A3 and B3 on the piano. These two notes are very close to C3 on the scale, and may account for why my histogram said the most common pitch was around this area._ 
+_My pitch histogram has shown me how many times a note has been played throughout the duration of the song. This is useful to detect the most common note. My pitch histogram has shown me that the most common note during the song was close to C3. My JSymbolic told me that my mean pitch was 58. After consulting with the University of South Wales online, I found that the midi number 58 represents the note inbetween A3 and B3 on the piano. These two notes are very close to C3 on the scale, and may account for why my histogram said the most common pitch was around this area._  Its c sharp on the histogram.
 
 ### Scatter Plot
 ![Pitch Scatter Plot](https://github.com/angusbarbour/MCA-2020/blob/master/images/Scatter%20Plot.png)

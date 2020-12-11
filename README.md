@@ -209,6 +209,22 @@ MFCC's or mel frequency cepstral coefficients are are a set of 20 characterisitc
 ![Classical MFCC Histogram](https://github.com/angusbarbour/MCA-2020/blob/master/images/classic_mfcc_histogram1.png)
 #### Classical
 
+### Analysis Task
+For this weeks Lab, I had to provide basic quanitivie analysis on a set of feautures of my choice. I have decided to analyse the results of the MFCC histograms to try and understand wheteher there are any similarities or difference between the timbre (tones) of my three tracks. My three tracks were from three different genres: Techno, Rock and Classical. When looking at feauture 0, the results were as followed:
+
+* Techno = -7
+* Rock = -7
+* Classical = -10 
+
+We can see that techno and rock are exactly the same, but classical is far from close. Although I was expecting Classical to be very distant from Techno and Rock, I did not consider that Rock and Techno could be so similar. The two tracks are both very loud and full of lower tones, so this may explain the similarities. Feature 2's results can be seen below also:
+
+* Techno = 2
+* Rock = 2
+* Classical = 3
+
+Once again, Techno and Rock show massive similarities in Timbre, which is quite suprising when considering the difference in genre. Overall, all three tracks yield relatively different results for each feature analysed however, there are similarities between Rock and Techno that were not initally forseen.
+
+
 ## _Week 10_ 
 ### Generating a Similarity Matrix.
 This week I was presented with the task of generating a similarity matrix for my tracks using jupiter notebook.

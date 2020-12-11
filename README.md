@@ -187,19 +187,30 @@ For task two, we were asked to make histograms from two of the transformations: 
 ### Chromograms
 
 ![Techno Chromo Histogram](https://github.com/angusbarbour/MCA-2020/blob/master/images/techno_chromo_histogram1.png)
+
 _Techno_
+
 ![Rock Chromo Histogram](https://github.com/angusbarbour/MCA-2020/blob/master/images/rock_chromo_histogram1.png)
+
 _Rock_
+
 ![Classical Chromo Histogram](https://github.com/angusbarbour/MCA-2020/blob/master/images/classical_chromo_histogram1.png)
+
 _Classical_
+
 
 ### MFCC
 
 ![Techno MFCC Histogram](https://github.com/angusbarbour/MCA-2020/blob/master/images/techno_mfcc_histogram1.png)
+
 _Techno_
+
 ![Rock MFCC Histogram](https://github.com/angusbarbour/MCA-2020/blob/master/images/rock_mfcc_histogram1.png)
+
 _Rock_
+
 ![Classical MFCC Histogram](https://github.com/angusbarbour/MCA-2020/blob/master/images/classic_mfcc_histogram1.png)
+
 _Classical_
 
 ## _Week 10_ 

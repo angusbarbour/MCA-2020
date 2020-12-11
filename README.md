@@ -238,6 +238,9 @@ In the matrix tracks 0-4 are all classicial songs, tracks 4-6 are all rock, and 
 * Track 8 - Rock
 * Track 9 - Techno 
 
+_please note: the lower the number on the right hand side, the more similar the song._
+The similarity matrix provided some interesting and accurate findings. Firstly we can see that track 7 (Classical) was very similar to tracks 0-4. This would make sense as tracks 0-4 are also classical music. Track 8 (rock) was very similar to tracks 4-6, which once again is an accurate display of information due to the fact that tracks 4-6 were also defined as rock genre. Track 9 (techno) was an interesting one. According to the matrix it shared similarites with tracks 4-6 and track 8, all of which are in the rock genre. This must be down to the fact that both rock and techno have relatively similar frequencies and tones. 
+
 ### Transcription 
 For the second task I was required to generate an automatic transcirption of my piece of music. This was achieved by using sonic visualiser to create this polyphonic transcription. The results of the polyphonic transcriptin can be seen below: 
 #### Polyphonic Transcription:

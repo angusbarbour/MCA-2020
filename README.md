@@ -188,27 +188,26 @@ For task two, we were asked to make histograms from two of the transformations: 
 In Sound analaysis, Chromograms are used to represent melodic and harmonic characteristics in music. Chromograms have 12 different features, this is due to the fact that these features represent 12 different pitch classes. These pitch classes are: {C, C♯, D, D♯, E , F, F♯, G, G♯, A, A♯, B}. Since chromograms only represent these 12 different pitch classes, I have produced 12 histograms for each feature down below:
 
 ![Techno Chromo Histogram](https://github.com/angusbarbour/MCA-2020/blob/master/images/techno_chromo_histogram1.png)
-_Techno_
+#### Techno
 
 ![Rock Chromo Histogram](https://github.com/angusbarbour/MCA-2020/blob/master/images/rock_chromo_histogram1.png)
-_Rock_
+#### Rock
 
 ![Classical Chromo Histogram](https://github.com/angusbarbour/MCA-2020/blob/master/images/classical_chromo_histogram1.png)
-_Classical_
+#### Classical
 
 
 ### MFCC
 MFCC's or mel frequency cepstral coefficients are are a set of 20 characterisitcs that are used to to describe the timbre of a song. Timbre can be described as the quality of tone, after pitch has been accounted for. These 20 features have been put in histograms like the chromogram features, they can be seen below:
 
 ![Techno MFCC Histogram](https://github.com/angusbarbour/MCA-2020/blob/master/images/techno_mfcc_histogram1.png)
+#### Techno
 
-_Techno_
 ![Rock MFCC Histogram](https://github.com/angusbarbour/MCA-2020/blob/master/images/rock_mfcc_histogram1.png)
+#### Rock
 
-_Rock_
 ![Classical MFCC Histogram](https://github.com/angusbarbour/MCA-2020/blob/master/images/classic_mfcc_histogram1.png)
-
-_Classical_
+#### Classical
 
 ## _Week 10_ 
 ### Generating a Similarity Matrix.

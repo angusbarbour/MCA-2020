@@ -201,6 +201,7 @@ _Classical_
 
 
 ### MFCC
+MFCC's or mel frequency cepstral coefficients are are a set of 20 characterisitcs that are used to to describe the timbre of a song. Timbre can be described as the quality of tone, after pitch has been accounted for. These 20 features have been put in histograms like the chromogram features, they can be seen below:
 
 ![Techno MFCC Histogram](https://github.com/angusbarbour/MCA-2020/blob/master/images/techno_mfcc_histogram1.png)
 

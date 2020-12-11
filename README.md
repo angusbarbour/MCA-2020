@@ -227,11 +227,16 @@ Once again, Techno and Rock show massive similarities in Timbre, which is quite 
 
 ## _Week 10_ 
 ### Generating a Similarity Matrix.
-This week I was presented with the task of generating a similarity matrix for my tracks using jupiter notebook.
+This week I was presented with the task of generating a similarity matrix for my tracks using jupiter notebook. The similarity matrix can be seen below:
 
 ![Similarity_Matrix](https://github.com/angusbarbour/MCA-2020/blob/master/images/similarity_matrix.JPG)
 
+### Analysis of Matrix
+In the matrix tracks 0-4 are all classicial songs, tracks 4-6 are all rock, and 7-9 are tracks of my choice. My choices follow on from previous weeks and are as follows:
 
+* Track 7 - Classical
+* Track 8 - Rock
+* Track 9 - Techno 
 
 ### Transcription 
 For the second task I was required to generate an automatic transcirption of my piece of music. This was achieved by using sonic visualiser to create this polyphonic transcription. The results of the polyphonic transcriptin can be seen below: 
@@ -241,4 +246,6 @@ For the second task I was required to generate an automatic transcirption of my 
 #### Orginal Transcription:
 ![Passepied Transcription](https://github.com/angusbarbour/MCA-2020/blob/master/images/Passepied_image.JPG)
 
+### Analysis of transicription.
+The automatic transcirption of Passepied produced some very interesting results. Firstly the polyphonic transcription was able to correctly reproduce the time signature of common time. My original transcription is notated with common time and the polyphonic with 4/4 however, these are the same. Ther second thing to note is that the polyphonic transcription has in fact got the key signature of the piece incorrect. The correct key signature is in the key of A (3 sharps) but the polyphonic transcription decided that the key signature was A flat (4 flats). Although these are similar, they are not the same. The third and final thing to note is the inaccuracy in notes produced by the polyphonic transcription. Firstly, the polyphonic transcription is extremely messy. There is a vast array of rests that should not be there. Secondly, there are notes present in the polyphonic transcription that are incredibly high on the stave, several lines above the highest note on my actual transcription. For these reasons I would conclude that the polyphonic transcription is not a very accurate transcription.
 

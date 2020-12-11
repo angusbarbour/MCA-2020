@@ -203,11 +203,9 @@ MFCC's or mel frequency cepstral coefficients are are a set of 20 characterisitc
 ![Techno MFCC Histogram](https://github.com/angusbarbour/MCA-2020/blob/master/images/techno_mfcc_histogram1.png)
 
 _Techno_
-
 ![Rock MFCC Histogram](https://github.com/angusbarbour/MCA-2020/blob/master/images/rock_mfcc_histogram1.png)
 
 _Rock_
-
 ![Classical MFCC Histogram](https://github.com/angusbarbour/MCA-2020/blob/master/images/classic_mfcc_histogram1.png)
 
 _Classical_

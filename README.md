@@ -185,6 +185,7 @@ This week we were presented with the task of extracting certain features from tr
 For task two, we were asked to make histograms from two of the transformations: MFCC'S and Chromograms. The histograms can be seen below:
 
 ### Chromograms
+In Sound analaysis, Chromograms are used to represent melodic and harmonic characteristics in music. Chromograms have 12 different features, this is due to the fact that these features represent 12 different pitch classes. These pitch classes are: {C, C♯, D, D♯, E , F, F♯, G, G♯, A, A♯, B}. Since chromograms only represent these 12 different pitch classes, I have produced 12 histograms for each feature down below:
 
 ![Techno Chromo Histogram](https://github.com/angusbarbour/MCA-2020/blob/master/images/techno_chromo_histogram1.png)
 

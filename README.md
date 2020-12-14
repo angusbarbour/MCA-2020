@@ -10,7 +10,7 @@ Other datasets such as the Live Music Archive have curated some accoustic data o
 ## _Week 2_ 
 This week I had decide on what piece of music I was going to transcribe for my project. I decided on a piece from Claude Debussy's Suite Bergamasque: Passepied. I was able to locate a scan in of the orginal sheet music arranged for piana by Debussy himself. I found this via the IMSLP music database, the link to the database can be found [here](https://imslp.org/wiki/Category:Debussy,_Claude).
 
-For this weeks activity I was required to transcribe 10 bars from this sheet music, the PDF document of the original score can be found [here.](https://github.com/angusbarbour/MCA-2020/blob/master/suite_bergamasque.pdf).
+For this weeks activity I was required to transcribe 10 bars from this sheet music, the PDF document of the original score can be found [here](https://github.com/angusbarbour/MCA-2020/blob/master/suite_bergamasque.pdf).
 
 My 10 bar transcription can be viewed below:
 ![transcirption](https://github.com/angusbarbour/MCA-2020/blob/master/images/Passepied_image.JPG).

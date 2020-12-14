@@ -191,24 +191,29 @@ In Sound analaysis, Chromograms are used to represent melodic and harmonic chara
 ![Techno Chromo Histogram](https://github.com/angusbarbour/MCA-2020/blob/master/images/techno_chromo_histogram1.png)
 #### Techno Chromogram Histogram ^
 
+
 ![Rock Chromo Histogram](https://github.com/angusbarbour/MCA-2020/blob/master/images/rock_chromo_histogram1.png)
-#### Rock
+#### Rock Chromogram Histogram ^
+
 
 ![Classical Chromo Histogram](https://github.com/angusbarbour/MCA-2020/blob/master/images/classical_chromo_histogram1.png)
-#### Classical
+#### Classical Chromogram Histogram ^
 
 
 ### MFCC
 MFCC's or mel frequency cepstral coefficients are are a set of 20 characterisitcs that are used to to describe the timbre of a song. Timbre can be described as the quality of tone, after pitch has been accounted for. These 20 features have been put in histograms like the chromogram features, they can be seen below:
 
 ![Techno MFCC Histogram](https://github.com/angusbarbour/MCA-2020/blob/master/images/techno_mfcc_histogram1.png)
-#### Techno
+#### Techno MFFC Histogram^
+
 
 ![Rock MFCC Histogram](https://github.com/angusbarbour/MCA-2020/blob/master/images/rock_mfcc_histogram1.png)
-#### Rock
+#### Rock MFCC Histogram^
+
 
 ![Classical MFCC Histogram](https://github.com/angusbarbour/MCA-2020/blob/master/images/classic_mfcc_histogram1.png)
-#### Classical
+#### Classical MFCC Histogram^
+
 
 ### Analysis Task
 For this weeks Lab, I had to provide basic quanitivie analysis on a set of feautures of my choice. I have decided to analyse the results of the MFCC histograms to try and understand wheteher there are any similarities or difference between the timbre (tones) of my three tracks. My three tracks were from three different genres: Techno, Rock and Classical. When looking at feauture 0, the results were as followed:

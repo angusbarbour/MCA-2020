@@ -1,6 +1,6 @@
 # __MCA 2020__
 
- ## _Week 1_ 
+## _Week 1_ 
 The central theme surrounding my MCA project will be the work of composer Claude Debussy.
 
 
